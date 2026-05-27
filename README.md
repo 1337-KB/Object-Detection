@@ -88,13 +88,13 @@ The model is pre-downloaded during the Docker build so the container starts imme
 
 ## Streamlit UI — Three Tabs
 
-### 📁 Image Upload
+### Image Upload
 Upload any JPG, PNG, BMP, or WebP image. The annotated result is shown alongside a per-class detection count and inference time in milliseconds.
 
-### 📷 Webcam
+### Webcam
 Uses your browser's camera to take a snapshot, which is then run through the detector. For continuous real-time inference, use `run_webcam.py` instead (see below).
 
-### 🎬 Video
+### Video
 Upload an MP4, AVI, MOV, or MKV file. A slider controls how many frames to skip — process every frame for full coverage or every 5th frame for a fast preview. Annotated frames play back live as they're processed.
 
 **Sidebar settings (apply to all tabs):**
