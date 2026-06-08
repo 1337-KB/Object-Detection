@@ -1,6 +1,6 @@
 # Real-Time Object Detection System
 
-A YOLOv8-powered object detection system that identifies 80 object classes in real time. Comes with two modes: a browser-based Streamlit app for images, webcam snapshots, and video files — and a dedicated OpenCV script for true 30+ FPS live webcam inference.
+A YOLOv8-powered object detection system that identifies 80 object classes in real time. Comes with two modes: a browser-based Streamlit app for images, webcam snapshots, and video files and a dedicated OpenCV script for true 30+ FPS live webcam inference.
 
 ---
 
